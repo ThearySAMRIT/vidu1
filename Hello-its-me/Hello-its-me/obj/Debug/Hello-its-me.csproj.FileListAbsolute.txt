@@ -1,0 +1,6 @@
+D:\c#\Hello-its-me\Hello-its-me\bin\Debug\Hello-its-me.exe.config
+D:\c#\Hello-its-me\Hello-its-me\obj\Debug\Hello-its-me.csprojResolveAssemblyReference.cache
+D:\c#\Hello-its-me\Hello-its-me\bin\Debug\Hello-its-me.exe
+D:\c#\Hello-its-me\Hello-its-me\bin\Debug\Hello-its-me.pdb
+D:\c#\Hello-its-me\Hello-its-me\obj\Debug\Hello-its-me.exe
+D:\c#\Hello-its-me\Hello-its-me\obj\Debug\Hello-its-me.pdb
